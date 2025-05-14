@@ -1,5 +1,8 @@
-- **Frontend:** React.js with Bootstrap for styling.
-- **Backend:** ASP.NET Core Web API.
-- **Database:** SQLite (local DB).
-- **Hosting:** Render.com 
-- **APIs Used:** Various public APIs for fetching real-time weather and currency exchange data.
+- **Frontend:** [React.js](https://reactjs.org/) with [Bootstrap](https://getbootstrap.com/) for styling.  
+- **Backend:** [ASP.NET Core Web API](https://dotnet.microsoft.com/en-us/apps/aspnet).  
+- **Database:** [SQLite](https://www.sqlite.org/index.html) (local DB).  
+- **Hosting:** [Render.com](https://render.com).  
+- **APIs Used:** Various public APIs for fetching real-time weather and currency exchange data via [RapidAPI](https://rapidapi.com/).  
+- **GitHub Repository:** [https://github.com/tegemenozyurek/News_SE3355_HW1.git](https://github.com/tegemenozyurek/News_SE3355_HW1.git)  
+- **Live Demo:** [https://news-se3355-hw1.onrender.com/](https://news-se3355-hw1.onrender.com/)  
+- **Demo Video:** [https://youtu.be/WQe2yPtlUs8](https://youtu.be/WQe2yPtlUs8)
