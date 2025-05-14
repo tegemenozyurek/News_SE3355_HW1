@@ -29,4 +29,4 @@ Bu API SQLite veritabanı kullanmaktadır ve `mydatabase.db` dosyasında veriler
 - GET /api/News - Tüm haberleri getirir
 - GET /api/SliderNews - Tüm slider haberlerini getirir
 
-API dokümantasyonuna `/swagger` endpointi üzerinden erişebilirsiniz. 
+API dokümantasyonuna `/swagger` endpointi üzerinden erişebilirsiniz.
