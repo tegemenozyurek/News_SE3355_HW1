@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: newsapi
+    env: docker
+    buildCommand: docker build -t newsapi .
+    startCommand: docker run -p 8080:8080 newsapi
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
+    healthCheckPath: /swagger 
